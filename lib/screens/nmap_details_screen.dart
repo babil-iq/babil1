@@ -36,7 +36,7 @@ class NmapDetailsScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Image.network(
-                'https://nmap.org/images/nmap-logo-256x256.png', // استبدل بالرابط الفعلي للصورة
+                'https://i.pinimg.com/736x/f5/85/9a/f5859aede9aacdbc9d2183e956bec163.jpg', // استبدل بالرابط الفعلي للصورة
                 fit: BoxFit.cover,
                 width: 200,
                 height: 200.0,
